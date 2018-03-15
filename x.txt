@@ -1,0 +1,66 @@
+<table border="1" align="center" height="150" width="200" cellpadding="10">
+<caption><h2>PLYWOODS</h2></caption><br><br>
+<tr bgcolor="orange" colspan="3">
+<th>Variety</th>
+<th>6mm
+<th>8mm
+<th>12mm
+<th>18mm
+</tr>
+<tr>
+<th>Commercial Plywoods
+<td>20
+<td>24
+<td>35
+<td>42
+</tr>
+<tr>
+<th>Hardwood Plywood
+<td>26
+<td>32
+<td>42
+<td>55
+</tr>
+<tr>
+<th>Boiling Water Proof Plywood
+<td>45
+<td>58
+<td>72
+<td>98
+</tr>
+<tr>
+<th>Moisture Resistant Plywood
+<td>40
+<td>52
+<td>65
+<td>82
+</tr>
+<tr>
+<th>Boiling Water Proof Plywoods
+<td>56
+<td>68
+<td>82
+<td>120
+</tr>
+<tr>
+<th>Lamination Boards Plywood
+<td>28
+<td>40
+<td>55
+<td>65
+</tr>
+<tr>
+<th>Finger Joined Boards
+<td>-
+<td>-
+<td>100
+<td>140
+</tr>
+<tr>
+<th>Medium Density Fiber Boards
+<td>15
+<td>20
+<td>32
+<td>46
+</tr>
+</table>

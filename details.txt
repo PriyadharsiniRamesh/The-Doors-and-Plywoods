@@ -1,0 +1,53 @@
+DOORS:  
+main doors:
+teak wood door
+1. 26000-35000
+wooden sal doors
+1.8-12
+bedroom doors
+polished doors:13000
+veneer polishd doors7000
+one side teak door4500
+both side teak door5500
+lamination doors:5000
+steel beeding doors4500
+panel doors2500
+memparane doors2800
+flush doors1500
+
+
+
+GLASS:
+4mm-12mm
+plain 4-35;5-46;6-58;8-85;12-120;
+cooling 4-45;5-58;8-120;12-180
+white design glass28-35
+grey design gls30-38
+pinhead gls26-30
+edging gls70-100
+forsted gls150
+
+
+
+PLYWOOD: 
+commercial plywoods 6mm-rs20;8-24;12-35;18-42;
+hardwood ply 6-26;8-32;12-42;18-55;
+boiled water resistance(bwr) ply 6-45;8-58;12-72;18-98;
+MR ply 6-40;8-52;12-65;18-82
+bwp ply 6-56;8-68;12-82;18-120;
+lamination boards 6-28;8-40;12-55;18-65
+finger joined boards 12-100;18-140;
+mdf medium density fiber 6-15;8-20;12-32;18-46;
+
+
+
+HARDWARES:
+ LOCK:250-5000 godrej...buma.....nova...laxmi
+ aldrops:100-1200 gi.....plus point.....sunshine
+ tower bolt:20-650 hanoi....sawan....national
+ hinges:20-600 garg......palladium.....lifestyle...polo
+ window fittings:70-400 imex...wilmex....polo
+ handles: 15-700
+ 
+
+LAMINATION SHEET:400-5000(mica)
